@@ -99,8 +99,8 @@ label {
   line-height: 1;
 }
 
-.orange {
-  color: #f06449 !important;
+.green {
+  color: green !important;
 }
 
 .link__hover-effect {
@@ -208,7 +208,7 @@ LANDING
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: green;
   color: white;
   padding: 6px;
   width: 32px;
@@ -421,8 +421,8 @@ MODAL
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: green;
+  border: 2px solid green;
   color: white;
   font-weight: bold;
   width: 100%;
@@ -438,8 +438,8 @@ MODAL
 }
 
 .form__submit:active {
-  border-color: #f06449;
-  color: #f06449;
+  border-color: green;
+  color: green;
 }
 
 .modal__overlay {
